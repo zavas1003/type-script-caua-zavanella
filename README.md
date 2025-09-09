@@ -41,3 +41,9 @@ EXERCICIO 5  function multiplicar(a: number, b: number): number {
 
 console.log(`Resultado: ${multiplicar(6, 7)}`);
 
+
+EXERCICIO 5 function multiplicar(a: number, b: number): number {
+  return a * b;
+}
+
+console.log(`Resultado: ${multiplicar(6, 7)}`);
